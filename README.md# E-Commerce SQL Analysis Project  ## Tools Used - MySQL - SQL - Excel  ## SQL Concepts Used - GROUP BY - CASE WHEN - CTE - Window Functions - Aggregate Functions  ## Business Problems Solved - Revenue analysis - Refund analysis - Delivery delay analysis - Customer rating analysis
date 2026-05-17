@@ -1,0 +1,19 @@
+# E-Commerce SQL Analysis Project
+
+## Tools Used
+- MySQL
+- SQL
+- Excel
+
+## SQL Concepts Used
+- GROUP BY
+- CASE WHEN
+- CTE
+- Window Functions
+- Aggregate Functions
+
+## Business Problems Solved
+- Revenue analysis
+- Refund analysis
+- Delivery delay analysis
+- Customer rating analysis
